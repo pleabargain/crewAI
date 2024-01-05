@@ -1,3 +1,12 @@
+# create python env
+
+python -m venv env
+
+# activate
+.\env\Scripts\activate
+
+
+
 # crewAI
 
 ![Logo of crewAI, tow people rowing on a boat](./crewai_logo.png)
