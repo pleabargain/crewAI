@@ -1,9 +1,16 @@
-# create python env
+# win10 set up
+## create python env
 
 python -m venv env
 
-# activate
+## activate
+
 .\env\Scripts\activate
+
+## wish list
+
+* output is in the CLI : Options for output to a web UI would be nice
+* option to automatically save the output as a dated text file  would be handy
 
 
 
